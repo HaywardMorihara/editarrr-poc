@@ -106,6 +106,8 @@ Lambda -- level object data --> DynamoDB
 Lambda -- level screenshots --> S3
 ```
 
+A POC has been built here: https://github.com/HaywardMorihara/editarrr-poc
+
 AWS:
 - API Gateway in front of Lambda Functions
 - DynamoDB for storage of the level objects
